@@ -409,6 +409,8 @@ footer span {
   #carousel,.carousel-item .w-100 {
     height: 50vh;
 }
+  .navbar{text-align: center;}
+
 .block{padding:100px 0}
 h1{font-size: 2.5rem;}
 h2{font-size: 1.8rem;}
